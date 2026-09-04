@@ -1,0 +1,23 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "wilayah_customer": "FULAN",
+      "wilayah_cabang": "JAKARTA",
+      "sales": "FULANA SALES",
+      "tanggal": "2025-06-25",
+      "customer_number": "1234-5678-9101",
+      "catatan": ""
+    },
+    {
+      "id": 2,
+      "wilayah_customer": "FULANO",
+      "wilayah_cabang": "BOGOR",
+      "sales": "FULANI SALES",
+      "tanggal": "2025-06-24",
+      "customer_number": "1234-5678-9101",
+      "catatan": ""
+    }
+  ],
+  "next_id": 3
+}

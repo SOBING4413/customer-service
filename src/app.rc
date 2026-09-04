@@ -1,0 +1,5 @@
+#include "resource.h"
+#include <winuser.h>
+
+IDI_APPICON ICON "..\\res\\app.ico"
+IDR_MANIFEST RT_MANIFEST "..\\res\\app.manifest"
