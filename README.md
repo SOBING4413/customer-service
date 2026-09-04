@@ -24,7 +24,7 @@ Aplikasi memakai sistem login lokal berbasis `data/users.json`.
 
 | Username     | Password           |
 |--------------|---------------------|
-| `alifhakim`  | `Alifhakim_441333`  |
+| `admin`  | `admin123`  |
 
 Anda dapat menambah/mengubah akun dengan mengedit `data/users.json`
 (format sederhana: `username`, `password`, `nama`, `role`).
